@@ -1,1 +1,4 @@
-# TriCode-Compiler
+MERN Stack HTML, CSS, and JavaScript Compiler This project is a simple web application that allows users to write and compile HTML, CSS, and JavaScript code in real-time. It utilizes the MERN stack (MongoDB, Express.js, React.js, Node.js) along with TypeScript for enhanced type checking and code maintainability.
+
+Features Real-time code compilation for HTML, CSS, and JavaScript. Separate editors for HTML, CSS, and JavaScript code. Preview pane to visualize the output of the compiled code. Responsive design, compatible with various screen sizes.
+Technologies Used MongoDB: Database for storing user sessions and compiled code snippets. Express.js: Backend framework for handling HTTP requests and routing. React.js: Frontend library for building the user interface components. Node.js: JavaScript runtime environment for running the server-side code. TypeScript: Superset of JavaScript that adds static typing and other features.
